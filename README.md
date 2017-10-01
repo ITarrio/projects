@@ -3,7 +3,7 @@
 ## Algorithms and Data Structures II
 1. [Abstract Data Types](https://github.com/ZebaSz/algo2-tp1)... [PDF_es](https://github.com/ZebaSz/algo2-tp1/blob/master/Entrega%20electr%C3%B3nica%20RTP%201.pdf)
 2. [Pokemon Go, Design and Specification. (AVL, Heap, Trie, Maps)](https://github.com/ZebaSz/algo2-tp2)... [PDF_es](https://github.com/ZebaSz/algo2-tp2/blob/reentrega/Reentrega%20TP2.pdf)
-3. [Pokemon Go, Implementation. C++](https://github.com/ZebaSz/algo2-tp2)
+3. [Pokemon Go, Implementation. C++](https://github.com/ZebaSz/algo2-tp3)
 
 ## Algorithms and Data Structures III
 1. [Backtracking, Dynamic Programming. C++](https://github.com/ITarrio/algo3_tp1)... [PDF_es](https://github.com/ITarrio/algo3_tp1/blob/master/informe/informe.pdf)
