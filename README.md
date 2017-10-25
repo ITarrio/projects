@@ -23,7 +23,7 @@
 2. [OCR, Digit Recognition. C++](https://github.com/kevinfra/metnum-tp2)... Doing
     * Machine Learning, k-NN, PCA, Power Method.
 ## Operating Systems
-1. [Concurrent HashMap. C++](https://github.com/ZebaSz/so-tp2)... [PDF_es](https://github.com/ZebaSz/so-tp1/blob/master/tp2-enunciado.pdf)
+1. [Concurrent HashMap. C++](https://github.com/ZebaSz/so-tp1)... [PDF_es](https://github.com/ZebaSz/so-tp1/blob/master/tp2-enunciado.pdf)
     * Pthreads.
 2. [Distributed HashMap. C++](https://github.com/ZebaSz/so-tp2)... Doing
     * MPI.
