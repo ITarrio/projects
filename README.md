@@ -22,9 +22,11 @@
     * Matrix Manipulation Gaussian Elimination, Cholesky Decomposition.
 2. [OCR, Digit Recognition. C++](https://github.com/kevinfra/metnum-tp2)... Doing
     * Machine Learning, k-NN, PCA, Power Method.
+3. [Data analysis, Flights within the USA. Python, Pandas, Seaborn](https://github.com/ITarrio/metnum-tp3)... Doing
+    * Least squares.
 ## Operating Systems
 1. [Concurrent HashMap. C++](https://github.com/ZebaSz/so-tp1)... [PDF_es](https://github.com/ZebaSz/so-tp1/blob/master/tp2-enunciado.pdf)
     * Pthreads.
-2. [Distributed HashMap. C++](https://github.com/ZebaSz/so-tp2)... Doing
+2. [Distributed HashMap. C++](https://github.com/ZebaSz/so-tp2)... 
     * MPI.
 
