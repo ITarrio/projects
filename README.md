@@ -17,8 +17,8 @@
 1. [Image Filters, SSE SIMD. C, ASM](https://github.com/ZebaSz/orga2-tp2)... [PDF_es](https://github.com/ZebaSz/orga2-tp2/blob/master/Informe%20-%20Reentrega.pdf)
 2. [System Programming. Bochs, C, ASM](https://github.com/ZebaSz/orga2-tp3)... [PDF_es](https://github.com/ZebaSz/orga2-tp3/blob/master/informe.pdf)
     * Protected Mode, Segmentation, Pagination, MMU, Interruptions, Scheduling.
-## Numeric Methods
-1. [Photometric Stereo. C++, MatLab](https://github.com/ITarrio/metnum-tp1)... Doing
+## Numerical Methods
+1. [Photometric Stereo. C++, MatLab](https://github.com/ITarrio/metnum-tp1)... [zip_es](https://github.com/ITarrio/metnum-tp1/releases/download/v3.0/RTP1.Mena.Frachtenberg.Goldsmit.Tarrio.Szperling.zip)
     * Matrix Manipulation Gaussian Elimination, Cholesky Decomposition.
 2. [OCR, Digit Recognition. C++](https://github.com/kevinfra/metnum-tp2)... Doing
     * Machine Learning, k-NN, PCA, Power Method.
