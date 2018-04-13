@@ -69,7 +69,7 @@
     ★ Digit recognition usign the MNIST handwritten digit dataseg, 1st on course challenge, 0.97771 on kaggle competition
     * Machine Learning
     * k-NN
-    * Principal Component Analisys
+    * Principal Component Analysis
     * Power Method
     * Data Augmentation (Rotation and Gaussian filter)
 3. [Data analysis, Flights within the USA .Python, Pandas, Seaborn](https://github.com/ITarrio/metnum-tp3)
